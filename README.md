@@ -1,4 +1,4 @@
-# React Nativr Animations with reanimated
+# React Native Animations with reanimated
 
 Video Sample :
 
