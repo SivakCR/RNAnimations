@@ -1,5 +1,5 @@
-# RNAnimations
+# React Nativr Animations with reanimated
 
-Video Example
+Video Sample :
 
 [![Demo CountPages alpha](https://github.com/SivakCR/RNAnimations/blob/main/animatin.gif)]
